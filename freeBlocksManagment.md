@@ -111,4 +111,4 @@
     Given the two memory footprint scenarios for Free Blocks Managment as presented in class. State the condition under which the linked list approach less space than the bitmap approach.
 <br>
 
-    The linked list uses less space then the Bitmap, under the condition that there are less free blocks than the size of the bitmap.
+The linked list uses less space then the Bitmap, under the condition that there are less free blocks than the size of the bitmap.
